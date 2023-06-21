@@ -1,0 +1,99 @@
+#sidebar {
+    background-color: #fbfad2;
+    width: 240px;
+    height: 535px;
+    padding: 10px;
+    position: absolute;
+    left: -280px;
+    transition: left 0.6s;
+    padding-left: 20px;
+  }
+  #sidebar.active {
+    left: 0;
+  }
+  #sidebar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  #sidebar ul li {
+    margin: 10px 0;
+  }
+  #sidebar ul li a {
+    display: block;
+    color: #333;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 10px;
+    font-size: 18px;
+  }
+  #sidebar ul li a:hover {
+    color: #fff;
+    background-color: #504f28;
+  }
+  .Menu{
+    margin: 1.5%;
+  }
+  h2{
+    text-align: center;
+    font-size: 24px;
+  }
+  .line{
+    width: 200px;
+    height: 1px;
+    background-color: #333;
+    margin: auto;
+  }
+  .menu-icon{
+    margin-top: 30px;
+    margin-left: 20px;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+  }
+  .abc{
+    margin: 1.5%;
+    margin-left: 20.;
+  }
+  .sub-menu {
+    display: inline-block;
+  }
+  .mainline{
+    width: 1500px;
+    height: 1px;
+    background-color: #333;
+    margin : auto;
+    margin-top: 20px;
+  }
+  
+  #admin_main_title{
+    display: inline;
+    padding-left: 800px;
+    font-size: 30px;
+  
+  }
+  #main_content{
+    display: inline;
+    width: 900px;
+  }
+  #menu_title{
+    padding-left: 520px;
+    padding-top: 30px;
+    padding-bottom: 5px;
+    font-size: 20px;
+    font-weight: 600;
+  }
+  #menu_title2{
+    padding-left: 520px;
+    font-size: 15px;
+  }
+  
+  .admin{
+    font-size: 24px;
+    text-align: center;
+    margin-top: 0.83em;
+    margin-bottom: 0.83em;
+    font-weight: bold;
+  }

@@ -1,0 +1,67 @@
+div {
+  text-align: center;
+}
+.inner{
+  text-align: left;
+  padding-left: 20%;
+      
+}
+.detail{
+  text-align: left;
+}
+.rightbox{
+  width: 600px;
+}
+.shopinfo{
+  padding-left: 20%;
+}
+.detail_img{
+  padding-left: 20%;
+}
+.market{
+  text-align: center;
+}
+.detail >div{
+  text-align: left;
+}
+select{
+  width: 50px;
+  height: 30px;
+  font-size: 20px;
+}
+.btnbuy{
+  width: 100px;
+  height: 30px;
+  font-size: 15px;
+}
+.order_table {
+  border-collapse: collapse;
+ width: 1200px;
+  font-size: 15px;
+  margin-left: 20%;
+}
+.order_table th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+.order_table th {
+  background-color: #f2f2f2;
+}
+.order_table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+.order_td1{
+  width: 15%;
+}
+.proviewEdit{
+  width: 1200px;
+  margin-right: 15%;
+}
+.detail_img{
+  width: 1200px;
+  margin-right: 20%;
+}
+.imgdetail{
+  width: 1150px;
+}

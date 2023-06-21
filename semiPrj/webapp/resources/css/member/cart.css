@@ -1,0 +1,43 @@
+.bigtitle{
+    text-align: center;
+    font-size: 32px;
+}
+.cart_img{
+    width: 100px;
+    height: 100px;
+}
+.order_title{
+    text-align: center;
+    margin-bottom: 30px;
+
+}
+
+.order_title strong{
+    font-size: 32px;
+}
+
+board_list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+thead{
+    font-size: 24px;
+    text-align: center;
+}
+tbody{
+    text-align: center;
+    font-size: 20px;
+}
+
+.page-area{
+	font-size : 24px;
+	margin: auto;
+	display: flex;
+	justify-content: space-around;
+	align-items : center;
+    
+}
+table{
+    border-style: ridge;
+}

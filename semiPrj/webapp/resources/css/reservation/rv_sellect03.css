@@ -1,0 +1,49 @@
+.cut_sellect {
+    width: 60%;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-bottom: 30px;
+    line-height: 40px;
+    text-align: center;
+    font-size: 15px;
+    border: 1px solid #d9d9d9;
+    border-collapse: collapse;
+}
+.rv_item3 {
+    background-color: cornsilk
+}
+.rv_item1
+,.rv_item2
+,.rv_item4
+,.rv_item5 {
+    background-color: whitesmoke;
+}
+button {
+    padding: 15px 25px;
+    font-size: 25px;
+    background-color: whitesmoke;
+    color: black;
+    border: none;
+    border-radius: 4px;
+    margin-bottom: 30px;
+}
+.col1 {
+    width: 15%;
+}
+
+.col2 {
+    width: 60%;
+}
+.col4 {
+    width: 15%;
+}
+
+.d_td {
+    background-color: whitesmoke;
+}
+.rv_container {
+    width: 60%;
+    margin: auto;
+} 
+

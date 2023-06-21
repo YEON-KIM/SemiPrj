@@ -1,0 +1,93 @@
+.col1{
+    width: 300px;
+}
+.col2{
+    width: 500px;
+}
+.time_sellect {
+    width: 60%;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-bottom: 30px;
+    line-height: 50px;
+    text-align: center;
+    font-size: 30px;
+    border: 1px solid #d9d9d9;
+    border-collapse: collapse;
+    font-weight: 300;
+}
+button {
+    padding: 15px 25px;
+    font-size: 25px;
+    background-color: whitesmoke;
+    color: black;
+    border: none;
+    border-radius: 4px;
+    margin-bottom: 30px;
+}
+.rv_item4 {
+    background-color: cornsilk
+}
+.rv_item1
+,.rv_item2
+,.rv_item3
+,.rv_item5 {
+    background-color: whitesmoke;
+}
+.d_td {
+  background-color: whitesmoke;
+}
+
+
+
+
+
+/* 기본 스타일 */
+input[type="date"] {
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 12px 18px;
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* 포커스 상태 */
+  input[type="date"]:focus {
+    outline: none;
+    box-shadow: 0 0 5px rgba(81, 203, 238, 1);
+  }
+  
+  /* 비활성화 상태 */
+  input[type="date"]:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+  }
+  
+  /* 호환성 문제로 기존 값을 보여주는 ::-webkit-datetime-edit-fields-wrapper 요소 스타일 */
+  input[type="date"]::-webkit-datetime-edit-fields-wrapper {
+    display: flex;
+    gap: 4px;
+  }
+  
+  /* 연도 필드 */
+  input[type="date"]::-webkit-datetime-edit-year-field {
+    flex: 1;
+  }
+  
+  /* 월 필드 */
+  input[type="date"]::-webkit-datetime-edit-month-field {
+    flex: 1;
+  }
+  
+  /* 일 필드 */
+  input[type="date"]::-webkit-datetime-edit-day-field {
+    flex: 1;
+  }
+  .rv_container {
+    width: 60%;
+    margin: auto;
+}    

@@ -1,0 +1,77 @@
+.content{
+  margin-left: 500px;
+  width: 1000px;
+  padding: 20px 20px;
+  border-radius: 10px;
+  
+}
+.text{
+  padding-bottom: 10px;
+}
+.text{
+  font-size: 20px;
+  text-align: left;
+  padding-bottom: 10px;
+}
+.box{
+  width: 500px;
+  height: 25px;
+  margin-left: 20px;
+  margin-bottom: 10px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 2px;
+  border: 1px solid black;
+  font-size: 20px;
+}
+.register{
+  font-size: 18px;
+  font-weight: 600;
+  width: 120px;
+  height: 35px;
+  color: white;
+  background-color: rgb(53, 53, 53);
+  border-radius: 5px;
+  margin-left: 300px;
+  cursor: pointer;
+}
+button{
+  width: 90px;
+  height: 30px;
+
+}
+textarea{
+  margin-left: 20px;
+}
+#categoly{
+  margin-left: 20px;
+  height: 30px;
+  font-size: 15px;
+}
+.cancel{
+  font-size: 18px;
+  font-weight: 600;
+  width: 120px;
+  height: 35px;
+  color: rgb(54, 54, 54);
+  background-color: rgb(255, 255, 255);
+  border-radius: 2px;
+  margin-left: 50px;
+  margin-top: 20px;
+  margin-bottom: 50px;
+  cursor: pointer;
+}
+#main_content{
+  display: inline;
+  width: 900px;
+}
+#menu_title{
+  padding-left: 530px;
+  padding-top: 30px;
+  padding-bottom: 5px;
+  font-size: 20px;
+  font-weight: 600;
+}
+#menu_title2{
+  padding-left: 530px;
+  font-size: 15px;
+}

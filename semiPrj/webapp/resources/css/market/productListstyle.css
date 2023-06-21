@@ -1,0 +1,29 @@
+div {
+    text-align: center;
+}
+
+section {
+    padding: 20px;
+    display: flex;
+    justify-content: center; /* 부모 요소를 가운데 정렬 */
+}
+.menu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+    width: 130px;
+    height: 30px;
+    text-align: center;
+    border-radius: 40px;
+    background-color: rgb(59, 52, 52);
+    color: white;
+}
+.product_img{
+    width: 230px;
+    height: 230px;
+}
+.product_name{
+    text-align: center;
+    font-size: 14px;
+}

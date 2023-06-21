@@ -1,0 +1,36 @@
+.bar {
+  width: 1100px;
+  height: 1px;
+  background-color: #d9d9d9;
+  margin: auto;
+  margin-bottom: 15px;
+  margin-top: 20px;
+}
+.order_title{
+  text-align: center;
+  margin-bottom: 30px;
+
+}
+
+.order_title strong{
+  font-size: 32px;
+}
+.order_table {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 15px;
+}
+.order_table th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+.order_table th {
+  background-color: #f2f2f2;
+}
+.order_table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+.order_td1{
+  width: 15%;
+}

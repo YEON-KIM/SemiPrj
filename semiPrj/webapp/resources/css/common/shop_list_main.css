@@ -1,0 +1,80 @@
+.rv_word_title {
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.rv_word_content {
+    font-weight: 500;
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bar {
+    width: 1100px;
+    height: 1px;
+    background-color: #d9d9d9;
+    margin: auto;
+    margin-bottom: 15px;
+    margin-top: 20px;
+}
+.rv_shoplist{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    width: 1000px;
+    height: 200px;
+    border: 1px solid #d9d9d9;
+    border-collapse: collapse;
+    margin-bottom: 30px;
+}
+.shopimg{
+    max-width: 100%; max-height: 100%;
+}
+.rv_icon{
+    max-width: 70px; height: 70px;
+}
+.col1, 
+.col3{
+    width: 25%;
+}
+.col2 {
+    width: 50%;
+}
+.rv_item1 {
+    background-color: cornsilk
+}
+.rv_item2
+,.rv_item3
+,.rv_item4
+,.rv_item5 {
+    background-color: whitesmoke;
+}
+
+.d_td {
+    background-color: whitesmoke;
+}
+td {
+    padding: 0;
+    border: none;
+  }
+  
+  td img {
+    display: block;
+    max-width: 100%;
+    height: 100%;
+  }
+  button {
+    padding: 15px 25px;
+    font-size: 20px;
+    background-color: mintcream;
+    color: black;
+    border: none;
+    border-radius: 10px;
+    
+}
+.qwe {
+    align-items: center;
+}

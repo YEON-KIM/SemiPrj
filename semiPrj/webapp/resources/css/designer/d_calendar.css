@@ -1,0 +1,120 @@
+.bigtitle{
+    text-align: center;
+    font-size: 32px;
+}
+.board_list .product{
+    width: 26%;
+  }
+.cart_img{
+    width: 50px;
+    height: 50px;
+}
+.num2{
+    width: 12.5%;
+}
+.order_title{
+    text-align: center;
+    margin-bottom: 30px;
+
+}
+
+.order_title strong{
+    font-size: 32px;
+}
+/* 달력 */
+
+.rap {
+  margin: auto;
+  max-width: 1100px;
+}
+.calendar_1{
+  width: 1500px;
+  height: 650px;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+ }
+
+.dateHead {
+  margin-bottom: .4rem;
+}
+
+.dateHead div {
+  width: 150px;
+  height: 50px;
+  background: #e31b20;
+  color: #fff;
+  text-align: center;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  grid-gap: 5px;
+}
+
+.grid div {
+  padding: .6rem;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.dateBoard div {
+  width: 150px;
+  height: 80px;
+  font-size: 14px;
+  color: #222;
+  font-weight: bold;
+  min-height: 6rem;
+  padding: .6rem .8rem;
+  border-radius: .6rem;
+  border: 1px solid #eee;
+}
+
+.noColor {
+  background: #eee;
+}
+
+.header {
+  width: 1100px;
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 2rem;
+}
+
+.btn {
+ display: block;
+ width: 20px;
+ height: 20px;
+ border: 3px solid #000;
+ border-width: 3px 3px 0 0;
+ cursor: pointer;
+}
+
+.prevDay {
+  transform: rotate(-135deg);
+}
+
+.nextDay {
+  transform: rotate(45deg);
+}
+
+.dateBoard div p {
+  font-weight: normal;
+  margin-top: .2rem;
+}
+.back{
+  height: 600px;
+}
+
+/* ------------- */
+
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css");
+
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  box-sizing: border-box;  
+  font-family: Pretendard;
+}

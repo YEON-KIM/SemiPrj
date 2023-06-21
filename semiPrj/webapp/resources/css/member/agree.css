@@ -1,0 +1,80 @@
+a {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+}
+#agree_mainlogo{
+  font-size: 60px;
+  margin-top: 80px;
+  margin-bottom: 30px;
+  text-align: center;
+  color: black;
+}
+.red_bar{
+  width: 100px;
+  height: 7px;
+  background-color: red;
+  margin: auto;
+  margin-bottom: 80px;
+  margin-top: 20px;
+}
+.essential{
+  font-size: 25px;
+  text-align: left;
+}
+.agreetext{
+  text-align: left;
+  font-size: 40px;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.sec1{
+  border: 1px solid rgb(255, 255, 255);
+  width: 800px;
+  position: relative;
+  left: 430px;
+  margin-bottom: 70px;
+}
+
+.line{
+  margin-top: 40px;
+  width: 900px;
+  margin: auto;
+  border: 1px solid black;
+}
+.btn_red{
+  margin-left: 800px;
+  margin-bottom: 50px;
+  width: 150px;
+  height: 30px;
+  text-align: center;
+  border: 1px solid red;
+  border-radius: 5px;
+  background-color: red;
+  color: white;
+  font-size: 17px;
+  font-weight: 600;
+
+}
+.btn_black{
+  margin-top: 30px;
+  margin-left: 40px;
+  width: 150px;
+  height: 30px;
+  text-align: center;
+  border: 1px solid rgb(61, 61, 61);
+  border-radius: 5px;
+  background-color: rgb(61, 61, 61);
+  color: white;
+  font-size: 17px;
+  font-weight: 600;
+}
+.next{
+  color: white;
+}
+.join{
+  text-align: center;
+}
+textarea {
+  text-align: left;
+}

@@ -1,0 +1,54 @@
+div {
+    text-align: center; /* 부모 요소를 가운데 정렬 */
+}
+
+section {
+    display: flex;
+    justify-content: center; /* 부모 요소를 가운데 정렬 */
+}
+
+table {
+    text-align: center;
+}
+div {
+    text-align: center;
+}
+.inner{
+    text-align: left;
+    padding-left: 15%;
+}
+.detail{
+    text-align: left;
+}
+.rightbox{
+    width: 600px;
+}
+.shopinfo{
+    padding-left: 15%;
+}
+.prodviewEdit{
+    margin-left: 20%;
+}
+.market{
+    text-align: center;
+}
+.order_table {
+    border-collapse: collapse;
+   width: 1200px;
+    font-size: 15px;
+    margin-left: 20%;
+  }
+  .order_table th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  .order_table th {
+    background-color: #f2f2f2;
+  }
+  .order_table tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  .order_td1{
+    width: 15%;
+  }

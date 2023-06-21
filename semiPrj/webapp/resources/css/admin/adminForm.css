@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+ padding: 0;
+  background: #ffffff;
+}
+.Title{
+  position: relative;
+  top: 20px;
+  left: 20px;
+  font-weight: bold;
+  position:relative;
+  font-size: 50px;
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+
+.IMG{
+  float: right;
+  text-align: bottom;
+}
+
+.abc{
+  font-weight: 500;
+  font-size: 20px;
+   height : 30px;
+   display : flex;
+   align-items: center;
+}
+.abc-right{
+   display: flex;
+   margin-left: auto;
+}
+.abc-menu{
+   margin-left: 10px; 
+}
+
+.room{
+  font-size: 25px;
+  font-weight: bold;
+}
+
+footer {
+  font-size: 13px;
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  bottom: 0;
+  width: 100%;
+}
+.right{
+  float:right;
+  margin-left: 20px; 
+  list-style: none;
+}

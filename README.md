@@ -4,7 +4,7 @@
 포트폴리오 링크 (<>)
 
 1.공지사항<br>
-2.FAQ
+2.FAQ<br>
 3.QNA
 
 ![](semiImage/1.jpg)
